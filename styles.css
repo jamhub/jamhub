@@ -217,24 +217,24 @@ h1 {
 	text-shadow: 0px 1px 0px #fff;
 }
 
-.mask-container-large {
+/*.mask-container-large {
 	position: relative;
 	width: 960px;
-	height: 540px;
+	height: 700px;
 	padding: 2px 3px 4px 3px;
 	margin: 30px 0 0 0;
 }
 
 .mask-gloss-large {
 	width: 966px;
-	height: 546px;
+	height: 700px;
 	position: absolute;
 	z-index: 5000;
 	background: url(images/gloss-large.png);
 	top: 0px;
 	left: 0px;
 }
-
+*/
 .divider-2 {
 	width: 960px;
 	height: 17px;
