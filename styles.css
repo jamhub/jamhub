@@ -361,3 +361,18 @@ h4 {
 	margin: 32px 10px 0 10px;
 }
 
+.graphics {
+    margin: 0;
+    padding: 0;
+    clear:both;
+}
+
+.graphics img {
+    float: left;
+    width: 450px;
+    margin-left: 30px;
+}
+
+#bform {
+    background: #F7F6F6 url('images/background.png') repeat;
+}
